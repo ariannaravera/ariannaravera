@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there, I'm Arianna 👩‍💻 </h1>
 <p align='center'>
-  I live in Switzerland, and I am Research Engineer in Computer Vision at the University of Lausanne, working on Bio-Image Analysis.
+  I am Research Engineer in Computer Vision at the University of Lausanne, working on Bio-Image Analysis.
 </p>
 
 <p align='center'>
