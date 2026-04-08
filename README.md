@@ -1,6 +1,7 @@
 <h1 align='center'> Hi there, I'm Arianna 👩‍💻 </h1>
 <p align='center'>
   I am a Data Scientist who builds data pipelines and works on data analysis, mainly in Python.
+  
   I have a background in computer vision, and I’m now mostly focused on working with complex data and making things run smoothly..
 </p>
 
